@@ -157,7 +157,7 @@ display: block;
 @media screen and (max-width: 768px) {
   .container {
     display: block;
-    background-image: none;
+    padding-top: 35%;
     
   }
 
@@ -200,6 +200,10 @@ display: block;
 
   .dispositivos {
     text-align: center;
+  }
+
+  .principal {
+    background-position-x: -4em;
   }
 
  
