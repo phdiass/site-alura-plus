@@ -2,8 +2,7 @@
 
 ## 📌 Descrição
 
-O **Site Alura Plus** é uma plataforma que promove o acesso a cursos de tecnologia, permitindo que usuários aprendam diversas habilidades de forma flexível.
-Com o **Combo+**, é possível acessar tanto o Alura+ quanto o Alura Língua por um preço único, possibilitando o aprendizado de inglês ou espanhol. 
+O **Site Alura Plus** é um projeto de site que promove o acesso a cursos de tecnologia, permitindo que usuários aprendam diversas habilidades de forma flexível. 
 Além disso, os cursos podem ser assistidos em diferentes dispositivos e baixados para visualização offline.
 
 
